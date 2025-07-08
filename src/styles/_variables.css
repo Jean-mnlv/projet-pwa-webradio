@@ -1,0 +1,11 @@
+:root {
+    --primary-color: #0054a6;       /* Bleu global du globe */
+    --secondary-color: #1e90ff;     /* Bleu clair des connexions */
+    --accent-color: #d10000;        /* Rouge du contour et du point sur le "i" */
+    --background-color: #ffffff;    /* Fond blanc pour contraste */
+    --text-color: #1a1a1a;          /* Texte noir foncé pour lisibilité */
+    --font-family: 'Segoe UI', 'Arial', sans-serif; /* Police moderne et lisible */
+    --font-size-base: 16px;
+    --border-radius: 6px;           /* Légèrement plus doux */
+    --box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15); /* Ombre subtile */
+}

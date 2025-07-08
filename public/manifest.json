@@ -1,0 +1,22 @@
+
+{
+  "name": "MNLV Média",
+  "short_name": "MNLV Média",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "A Progressive Web App for streaming radio and news.",
+  "icons": [
+    {
+      "src": "icons/logo_mnlv_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/logo_mnlv_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

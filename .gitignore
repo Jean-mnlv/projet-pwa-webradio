@@ -1,0 +1,60 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+www/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env*
+.env.local
+.env.production
+.env.development
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Capacitor
+android/
+ios/
+
+# Vite cache
+.vite/
+
+# Test coverage
+coverage/
+
+# Reports
+*.lcov
+
+# Lock files
+yarn.lock
+pnpm-lock.yaml
+
+# Misc
+*.tgz
+
+# System files
+*.swp
+*.swo
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Desktop.ini
+$RECYCLE.BIN/
+
+# Optional: VS Code settings
+.settings/
